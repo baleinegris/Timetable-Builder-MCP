@@ -1,1 +1,3 @@
 # Timetable-Builder-MCP
+
+## WORK IN PROGRESS WHEN I'M LESS BUSY
